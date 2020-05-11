@@ -1,0 +1,12 @@
+{
+	"auto_find_in_selection": true,
+	"color_scheme": "Packages/Darkula Color Scheme/darkula.tmTheme",
+	"font_face": "Consolas",
+	"font_size": 14,
+	"ignored_packages":
+	[
+		"Vintage"
+	],
+	"line_numbers": false,
+	"theme": "Default.sublime-theme"
+}
