@@ -8,5 +8,6 @@
 		"Vintage"
 	],
 	"line_numbers": false,
+	"show_encoding": true,
 	"theme": "Default.sublime-theme"
 }
