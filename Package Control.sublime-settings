@@ -6,7 +6,9 @@
 	"installed_packages":
 	[
 		"Darkula Color Scheme",
+		"HexViewer",
 		"Hosts",
-		"Package Control"
+		"Package Control",
+		"Pretty JSON"
 	]
 }
