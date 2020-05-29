@@ -3,5 +3,7 @@
 
 # ... except preferences
 !.gitignore
+!Default (OSX).sublime-keymap
 !Preferences.sublime-settings
 !Package Control.sublime-settings
+!README.md
