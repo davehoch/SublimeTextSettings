@@ -6,8 +6,12 @@
 	"installed_packages":
 	[
 		"Darkula Color Scheme",
+		"Filter Lines",
+		"Git Config",
 		"HexViewer",
 		"Hosts",
+		"MarkdownPreview",
+		"nginx",
 		"Package Control",
 		"Pretty JSON"
 	]
