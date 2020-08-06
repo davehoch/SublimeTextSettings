@@ -3,11 +3,13 @@
 	"color_scheme": "Packages/Darkula Color Scheme/darkula.tmTheme",
 	"font_face": "Menlo",
 	"font_size": 14,
+	"highlight_line": true,
 	"ignored_packages":
 	[
 		"Vintage"
 	],
 	"line_numbers": false,
+	"open_files_in_new_window": false,
 	"show_encoding": true,
 	"theme": "Default.sublime-theme"
 }
