@@ -1,4 +1,5 @@
 [
+	{ "keys": ["super+0"], "command": "reset_font_size" },
 	{ "keys": ["shift+option+down"], "command": "duplicate_line" },
 	{ "keys": ["shift+option+up"], "command": "duplicate_line" },
 
